@@ -15,7 +15,7 @@ function Hero() {
         />
       </div>
       <h1>Hi I'm Josef</h1>
-      <p>I blog about web development - especially like React or Vue</p>
+      <p>I blog about web development - especially React and Vue</p>
     </section>
   );
 }

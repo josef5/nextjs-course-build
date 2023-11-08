@@ -8,7 +8,7 @@ function Homepage(props) {
   return (
     <>
       <Head>
-        <title>Josef's Awesome Blog</title>
+        <title>Josef's Blog</title>
         <meta
           name="description"
           content="I post about programming and web development."
