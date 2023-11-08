@@ -5,6 +5,7 @@ module.exports = (phase) => {
     return {
       env: {
         mongodb_username: "joseespejo",
+        // mongodb_password on vercel
         mongodb_clustername: "cluster0",
         mongodb_database: "my-site",
       },
@@ -14,6 +15,7 @@ module.exports = (phase) => {
   return {
     env: {
       mongodb_username: "joseespejo",
+      // mongodb_password on vercel
       mongodb_clustername: "cluster0",
       mongodb_database: "my-site",
     },
