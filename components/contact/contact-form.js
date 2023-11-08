@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import classes from "./contact-form.module.css";
-import Notification from "../ui/Notification";
+import Notification from "../ui/notification";
 
 function ContactForm() {
   const [enteredEmail, setEnteredEmail] = useState("");
